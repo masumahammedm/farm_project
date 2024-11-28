@@ -7,7 +7,6 @@ const {
   overview,
   replaceTemplate,
 } = require("./dev-data/Data");
-console.log("fjh");
 const { PORT, HOST } = require("./config");
 // Main Server
 const server = http.createServer((req, res) => {
