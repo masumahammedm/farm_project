@@ -1,0 +1,11 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "full",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "masum",
+  "license": "ISC"
+}
